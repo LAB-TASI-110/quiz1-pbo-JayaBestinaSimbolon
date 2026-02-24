@@ -1,0 +1,4 @@
+Tolong buatkan saya program sesuai dengan soal yang saya berikan dan sesuaikan dengan gambar menu dan list harga serta diskonya 
+buatkanlah program yang sesuai diminta soal dengan menyesuaikan dengan list harga dan menunya
+coba perbaiki program karena masih ada kesalahan atau erorrrr
+
