@@ -1,0 +1,19 @@
+Gpt
+tolong  buatkan saya sebuah sistem yang dapat mendukung operasional sehari-hari di Laundry Del, dimana 
+sistem ini nanti akan menerima keluhan dari mahasiswa jika da  kerusakan
+dan pada sistem ini juga nanti akan ada info penjadwalan
+
+jadi saya ingin membuat program yang dapat menerima
+saran dan laporan dari mahasiswa kepada pihak loundry
+dan buat juga untuk menyimpan data mahasiswa seperti
+nama angkatan dan juga nama asarama buatkan dalam dalam bahas ajava
+
+tolong buatkan untuk pengaduan saja dan program ini menerima inputan nama angkatan dan juga nama asrama 
+
+coba buatkan program sebuah sistem yang dapat
+mendukung operasional sehari-hari di Laundry Del dimna
+program ini berisi pengaduan mahasiswa tentang baju
+rusak, dan hilang dan program ini dapat menetima
+inputan nama,angkatan dan nama asrama dan program ini
+juga dapat merespon untuk setiap laopran dari mahasiswa
+buat dalam bahasa javaa
