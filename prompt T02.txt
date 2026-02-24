@@ -1,0 +1,21 @@
+Gpt
+tolong buatkan saya program dimana Data nilai siswa disimpan dalam sebuah rak fisik yang tersusun rapat. Perhatikan pola penyimpanan pada gambar di bawah ini untuk memahami bagaimana kelompok siswa dipisahkan. 
+Input:
+1.	Jumlah total data (N).
+2.	Deret nilai (n1, n2, …, n).
+3.	Kode kelompok siswa
+
+**Tugas**
+Buatlah program yang mampu menentukan total nilai hanya untuk kelompok yang diminta.
+<p align="center">
+  <img src="image/pola.jpeg" width="300">
+</p>  dan sesuikan juga dengan gambar ini, coba sesuikan dengan memperhatikan urutannya
+
+buatkan dengan kode program java
+
+Jumlah total data (N).
+Deret nilai (n1, n2, …, n).
+Kode kelompok siswa sesuikan dengan permintaannya ini
+
+coba buatkan program sesuia yang diminta pada soal ini dengan memperhatikan urutan dan buat contoh input dan outputnya
+
